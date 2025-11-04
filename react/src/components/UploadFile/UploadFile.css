@@ -1,0 +1,66 @@
+/* .UploadFile {}
+.inputFile{
+    border: 2px;
+    border-color: rgb(0, 0, 0);
+    margin-bottom: 20px;
+}
+.UploadFile{
+    margin-right: 70px;
+    margin-top: 50px;
+}
+.butt{
+    margin-right: 25px;
+    width: 180px;
+}
+.showFile{
+    border: 2px;
+    border-style: double;
+    border-color: rgb(89, 89, 90);
+    margin-bottom: 10px;
+}
+.resalt{
+    border: 2px;
+    border-style: double;
+    border-color: rgb(89, 89, 90);
+} */
+
+
+.UploadFile {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.inputFile{
+    text-align: center;
+    border: 2px;
+    border-color: rgb(0, 0, 0);
+    margin-bottom: 30px;
+}
+.UploadFile{
+    margin-right: 70px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.butt{
+    margin-right: 40px;
+    width: 180px;
+}
+.showFile{
+    border: 2px;
+    border-style: double;
+    border-color: rgb(89, 89, 90);
+    margin-bottom: 10px;
+}
+.resalt{
+    margin-top: 30px;
+    border: 2px;
+    border-style: double;
+    border-color: rgb(216, 63, 170);
+}
+
+.title{
+    text-align: center;
+}
+
+h1{
+    color: rgb(216, 63, 170);
+}

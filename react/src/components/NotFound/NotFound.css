@@ -1,0 +1,11 @@
+.NotFound {
+    color: rgb(255, 81, 42);
+    font-size: larger;
+}
+.bt{
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    color: black;
+    margin-left: 10px;
+}

@@ -1,0 +1,52 @@
+.User {}
+
+.post {
+    border: 2px;
+    border-style: double;
+    border-color: rgb(255, 255, 255);
+    float: left;
+    margin-top: 40px;
+}
+.addPost {
+    display: flex;
+    justify-content: right;
+    height: 700px;
+}
+.form {
+    background-color: rgb(255, 255, 255);
+    margin-top: 90px;
+    margin-bottom: 100px;
+}
+
+.Offcanvas {
+    margin-bottom: 10%;
+    margin-top: 55px;
+}
+
+.NewPost {
+    font-size: 40px;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+.buttonPost {
+    width: 20%;
+    height: 50px;
+    margin-top: 20px;
+    margin-left:400px;
+    margin-right: 1300px;
+    float: right;
+}
+h3{
+    color: rgb(49, 182, 167);
+    text-align:center ;
+}
+.mySpinner {
+    margin-left: 900px;
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+}
+th{
+    color: rgb(186, 44, 72);
+}

@@ -1,0 +1,21 @@
+.about {
+    color: white;
+    background-color: rgba(13, 13, 13, 0.13)
+
+}
+h3{
+    color: rgb(209, 73, 184);
+}
+h4{
+    color: rgb(93, 189, 138);
+}
+h6{
+    color: rgb(185, 253, 185);
+}
+h5{
+    color: rgb(255, 78, 178);
+    font-size: x-large;
+}
+.info{
+    text-align: center;
+}

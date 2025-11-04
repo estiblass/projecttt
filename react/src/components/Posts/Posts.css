@@ -1,0 +1,26 @@
+.Posts {}
+.post
+{
+  border: 2px;
+  border-style: double;
+  border-color: white;
+  float: right;
+}
+.listOfUsers{
+    border: 2px;
+    border-style: double;
+    border-color: white;
+    float: left
+}
+h1{
+    color: rgb(254, 241, 54);
+    text-align: left;
+    margin-right: 130px;
+}
+.mySpinner {
+  margin-left: 900px;
+  height: 100px;
+  width: 100px;
+  justify-content: center;
+
+}
